@@ -1,2 +1,2 @@
-# helpful-command
+# Helpful commend
 List of linux helpful command
